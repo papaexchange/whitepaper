@@ -6,9 +6,13 @@ description: >-
 
 # How to buy Papa Tokens (PAPA)
 
-Head to [**metamask.io**](https://healingpot.info/metamask.io) and download their wallet, you can also consider other web3 wallets such as [**TrustWallet.**](https://trustwallet.com/)
+Head to [**metamask.io**](https://metamask.io/) and download their wallet, you can also consider other web3 wallets such as [**TrustWallet**](https://trustwallet.com/)**.**
 
-**Head over to our**  [**PAPA-SWAP Aggregator**](https://www.papaexchange.online/swap)****
+{% embed url="https://metamask.io/" %}
+
+{% embed url="https://trustwallet.com/" %}
+
+**Head over to our**  [**PAPA-SWAP Aggregator**](https://www.papaexchange.online/defi-dashboard#/)****
 
 where you'll be undertaking the swap of your current BNB Smart Chain or other tokens to $PAPA.
 

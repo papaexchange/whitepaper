@@ -2,13 +2,17 @@
 
 
 
-Head to [**metamask.io**](https://healingpot.info/metamask.io) and download their wallet, you can also consider other web3 wallets such as [**TrustWallet.**](https://trustwallet.com/)****
+Head to [**metamask.io**](https://metamask.io/) and download their wallet, you can also consider other web3 wallets such as [**TrustWallet.**](https://trustwallet.com/)****
 
-****
+{% embed url="https://metamask.io/" %}
+
+{% embed url="https://trustwallet.com/" %}
 
 **Head over to PancakeSwap**
 
-Go to [PancakeSwap](https://pancakeswap.finance/swap#/swap?outputCurrency=0xc974be717f52dcc701fe50fad36d163b1e9a3a82) where you'll be undertaking the swap of your current BNB or other tokens to $PAPA.
+{% embed url="https://pancakeswap.finance/swap?outputCurrency=0x18f1F69fE1d80c8Ff9472BC5387ff7b40e34C860#/swap?outputCurrency=0x18f1f69fe1d80c8ff9472bc5387ff7b40e34c860" %}
+
+Go to [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x18f1F69fE1d80c8Ff9472BC5387ff7b40e34C860#/swap?outputCurrency=0x18f1f69fe1d80c8ff9472bc5387ff7b40e34c860) where you'll be undertaking the swap of your current BNB or other tokens to $PAPA.
 
 ****
 
