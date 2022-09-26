@@ -24,3 +24,7 @@ description: Our Partnerships
 
 {% embed url="https://changenow.io/?link_id=358cedcf735a07" %}
 
+## The Bear Token
+
+{% embed url="https://www.thebeartoken.com/" %}
+
