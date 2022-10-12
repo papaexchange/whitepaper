@@ -17,3 +17,4 @@
 * [Legal and liability disclaimer](legal-and-liability-disclaimer.md)
 * [Links & Charities](links-and-charities.md)
 * [Partnerships](partnerships.md)
+* [Wallet](wallet.md)

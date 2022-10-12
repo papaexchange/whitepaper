@@ -26,3 +26,5 @@ description: Contents
 14\. Links & Charities
 
 15\. Partnerships
+
+16\. Wallet
