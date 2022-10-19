@@ -12,9 +12,9 @@ description: Our Partnerships
 
 {% embed url="https://fuddoxx.com/" %}
 
-## Onramper
+## Transak
 
-{% embed url="https://onramper.com/" %}
+{% embed url="https://transak.com/" %}
 
 ## DEXKIT:
 
@@ -27,4 +27,3 @@ description: Our Partnerships
 ## The Bear Token
 
 {% embed url="https://www.thebeartoken.com/" %}
-
