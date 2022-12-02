@@ -4,7 +4,7 @@
 
 **PAPA-SWAP Aggregator (Live)**&#x20;
 
-Our Swap Aggregator fetch's the best prices and liquidity from different DEX protocols on the Binance Smart Chain Main Network including PancakeSwap, Bakerywap & Apeswap, The Swap Aggregator also works on other EVM networks including Ethereum, Polygon Avalanche and Fantom.&#x20;
+Our Swap Aggregator fetch's the best prices and liquidity from different DEX protocols on the Binance Smart Chain Main Network including: PancakeSwap, Bakeryswap & Apeswap, The Swap Aggregator also works on other EVM networks including Ethereum, Polygon Avalanche and Fantom.&#x20;
 
 **The PapaExchanger**
 
