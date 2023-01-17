@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PapaExchange Whitepaper](README.md)
+* [PEX Whitepaper](README.md)
 * [Summary](summary.md)
 * [Disclaimer](disclaimer.md)
 * [Introduction](introduction.md)
